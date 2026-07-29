@@ -1,5 +1,5 @@
 # A-Drop-of-Tevin-s-Brain-Juice
-<Bowl-of-Riches.html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +19,7 @@
     </script>
 </body>
 </html>
-<Cup-of-Wealth.html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -41,4 +41,8 @@
 a {
     /* customize the color for your links */
     color: darkslateblue
+}
+p {
+
+color: red
 }
