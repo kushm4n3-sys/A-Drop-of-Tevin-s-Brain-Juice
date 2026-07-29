@@ -38,3 +38,7 @@
     <a href="Bowl-of-Riches.html"</a>
 </body>
 </html>
+a {
+    /* customize the color for your links */
+    color: darkslateblue
+}
