@@ -35,7 +35,7 @@
     <p>To be a worthy asset to the Anthropic Corperation, and one day maybe create and empire stronge enought to stand with it</p>
     <p>Good Food</p>
     <!-- Correct the link to the Homepage and Customize the Link Text -->
-    <a href="Bowl-of-Riches.html"</a>
+    <a href="index.html"</a>
 </body>
 </html>
 a {
@@ -46,3 +46,6 @@ p {
 
 color: red
 }
+alert {
+
+color: red
